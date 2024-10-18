@@ -1,4 +1,4 @@
-USE escola;
+USE --nome do seu banco--;
 
 
 CREATE TABLE Autores (
