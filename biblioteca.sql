@@ -1,4 +1,4 @@
-USE --nome do seu banco--;
+USE --name of schema--;
 
 
 CREATE TABLE Autores (
